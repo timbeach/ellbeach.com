@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Elliott Beach</title>
+        <meta charset="utf-8">
+        <link rel="shortcut icon" type="image/jpg" href="icons8-orthodox-cross-50.png"/>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        </head>
+        <body>
+        <header>
+        <main>
+                <h1>Elliott Beach's Webpage</h1>
+                <!--p>
+                        <center>
+                                <img src="hodl.jpeg" alt=".." align="middle" <style="padding: 0 10px 5px 0; float:left;">
+                        </center>
+                </p-->
+                <h2>Things I like</h2>
+                <ul class="ll">
+                        <li>
+                                Minecraft
+                        </li>
+                        <li>
+                                Dragons
+                        </li>
+			<li>Hide and seek FREEZE TAG</li>
+
+        </main>
+        </body>
+</html>
+
+
